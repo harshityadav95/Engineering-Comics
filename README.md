@@ -1,4 +1,4 @@
-# Machine-Learning-Comics
+# Learning-Comics
 Collection of Machine Learning Comics for Teaching
 
 - Microsoft Learn Comicc (Check the Files part 1/Part 2 above)
