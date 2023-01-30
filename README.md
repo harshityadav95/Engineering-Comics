@@ -5,6 +5,8 @@ Collection of Machine Learning Comics for Teaching
 - [Google Ai ML Comics 1](https://cloud.google.com/products/ai/ml-comic-1/)
 - [Google Ai ML Comics 2](https://cloud.google.com/products/ai/ml-comic-2/)
 
+# CyberSecurity Comics
+- [SecurityZine](https://securityzines.com/#comics)
 
 Not Exaclty Comics :
 
